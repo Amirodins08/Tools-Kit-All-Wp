@@ -1,0 +1,8 @@
+/* BEGIN font styles for rtl version */
+p, a, h1, h2, h3, h4, h5, h6, .ab-label {
+    font-family: Shabnam, Yekan, IRANYekan, IRANSans, Tahoma, Verdana, Arial, Helvetica, sans-serif !important;
+}
+body, div {
+    font-family: Shabnam, Yekan, IRANYekan, IRANSans, Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+/* END font styles for rtl version */

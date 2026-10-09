@@ -1,0 +1,173 @@
+/* BEGIN login logo css */
+.ach-logo-form {
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(202,202,202);
+}
+
+#ach-logo-table{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#upload-btn, #wp_logo_url {
+    margin-top: 5px;
+}
+
+.ach-login-logo-header{
+    background: #007CBA;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 6px;
+    text-align: center;
+    max-width: 350px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFFFFF;
+}
+/* END login logo css */
+
+/* BEGIN custom code css */
+.ach-code-header{
+    background: #007CBA;
+    color: #FFFFFF;
+    border-radius: 6px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFFFFF;
+	padding: 6px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px !important;
+    font-weight: 600 !important;
+}
+
+.code-header{
+    margin-bottom: 10px !important;
+}
+
+.striped h2 {
+    background: rgb(238,43,92);
+    padding: 8px;
+    border-radius: 5px;
+    width: 110px !important;
+    color: white !important;
+    text-align: center
+}
+/* END custom code css */
+
+/* BEGIN Find and Replase css */
+.achfind .form-horizontal{
+	border-width:0px;
+    background-color: #f1f1f1;
+	max-width:100%;
+	position:static !important;
+}
+
+
+.find-header{
+	background: #007CBA;
+    color: #FFFFFF;
+    border-radius: 6px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFFFFF;
+	padding: 6px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px !important;
+    font-weight: 600 !important;
+}
+
+.find-replace-header{
+    margin-bottom: 10px !important;
+}
+
+.form-horizontal .panel{
+	background-color:#f5f5f5 !important;
+	padding: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d1d1d1;
+}
+.panel .table-striped{
+	background-color:#ffffff !important;
+    border-radius: 5px;
+    padding: 15px;
+	width: 100%;
+}
+.remove {
+    border-style:solid;
+	border-width:1px;
+	border-color:#d9534f;
+    padding:5px;
+	background-color: #d9534f;
+	color: #fff;
+	padding-left:15px;
+	padding-right:15px;
+	border-radius:5px;
+	margin-top: 10px;
+}
+.pull-right {
+    border-style:solid;
+	border-width:1px;
+	border-color:#dbdbdb;
+    padding:5px;
+	padding-left:15px;
+	padding-right:15px;
+	border-radius:5px;
+}
+.btn-success {
+    background-color: #007cba;
+    border-style: solid;
+    border-color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    color: #fff;
+    margin-top: 10px;
+}
+.form-control {
+    width: 100%;
+	margin-top: 6px;
+}
+.addmorebtn{
+    display: block;
+    float: right;
+    margin-top: 10px;
+}
+
+.input-group-addon {
+    background-color:#f2f2f2;
+	border-style:solid;
+	border-color:#e0e0e0;
+	border-width:1px;
+	text-align:center;
+	padding: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+	border-radius: 3px;
+}
+
+.ach-note-p {
+    font-weight: 600;
+}
+.ach-note {
+    font-size: 14px;
+	font-weight: 700;
+}
+.ach-note-update {
+    color: #007cba;
+    font-weight: 700;
+}
+
+.ach-note-find {
+    font-weight: 700;
+    color: #dc0303;
+}
+/* END Find and Replase css */

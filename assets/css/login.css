@@ -1,0 +1,38 @@
+/* BEGIN fix login styles */
+#login {  
+	width: 350px;
+}
+/* END fix login styles */
+
+/* BEGIN login captcha css */
+#ach-captcha-answer {
+    display: block;
+	text-align:center;
+}
+.ach-code-paragraph {
+    clear: both;
+}
+
+.ach-code-paragraph .ach-code-span {
+    font-size: 22px;
+    box-sizing: border-box;
+    padding: 6px;
+    margin: 2px 0 16px 0;
+    background: #f1f1f1;
+    text-align: center;
+    display: block;
+    color: #333;
+    line-height: 1.3;
+    border: 1px solid #ddd;
+	border-radius: 3px;
+}
+
+.ach-code-paragraph.woocommerce-form-row .ach-code-span {
+    margin-bottom: 0;
+}
+
+.ach-code-paragraph .ach-label-span {
+    font-size: 14px;
+    vertical-align: middle;
+}
+/* END login captcha css */
